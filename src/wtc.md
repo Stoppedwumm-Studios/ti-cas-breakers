@@ -1,3 +1,4 @@
+```python
 import time
 
 time.sleep(15) # Replace the number with the seconds you want it to freeze
@@ -15,3 +16,4 @@ time.sleep(15) # Replace the number with the seconds you want it to freeze
 # When calling the sleep function, the python runtime blocks the main process
 # This includes the timer and the function to check if the user exited the program.
 # The python process is not affected and continues to execute. 
+```
